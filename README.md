@@ -20,9 +20,9 @@ Vehicles/Vegetation will be the first release for Algonquin. Temporary files to 
 ## Map Progression:
 
 ### **Algonquin**
-- **Vehicles/Vegetation**: *In Progress* 40%
+- **Vehicles/Vegetation**: *In Progress* 70%
 - **Safe Zones**: *Not Started*  
-- **POIs**: *Not Started*  
+- **POIs**: *In Progress* 30% 
 - **Finer Detail Edits/Additions**: *Not Started*  
 
 ### **Broker**
