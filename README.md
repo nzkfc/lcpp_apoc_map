@@ -20,31 +20,36 @@ Vehicles/Vegetation will be the first release for Algonquin. Temporary files to 
 ## Map Progression:
 
 ### **Algonquin**
-- **Vehicles/Vegetation**: *In Progress* 70%
+- **Vehicles:** *In Progress* 100%
+- **Vegetation**: *In Progress* 0%
 - **Safe Zones**: *Not Started*  
 - **POIs**: *In Progress* 30% 
 - **Finer Detail Edits/Additions**: *Not Started*  
 
 ### **Broker**
-- **Vehicles/Vegetation**: *Not Started*  
+- **Vehicles:** *Not Started* 
+- **Vegetation**: *Not Started* 
 - **Safe Zones**: *Not Started*  
 - **POIs**: *Not Started*  
 - **Finer Detail Edits/Additions**: *Not Started*  
 
 ### **Dukes**
-- **Vehicles/Vegetation**: *Not Started*  
+- **Vehicles:** *Not Started* 
+- **Vegetation**: *Not Started* 
 - **Safe Zones**: *Not Started*  
 - **POIs**: *Not Started*  
 - **Finer Detail Edits/Additions**: *Not Started*  
 
 ### **Bohan**
-- **Vehicles/Vegetation**: *Not Started*  
+- **Vehicles:** *Not Started* 
+- **Vegetation**: *Not Started* 
 - **Safe Zones**: *Not Started*  
 - **POIs**: *Not Started*  
 - **Finer Detail Edits/Additions**: *Not Started*  
 
 ### **Alderney**
-- **Vehicles/Vegetation**: *Not Started*  
+- **Vehicles:** *Not Started* 
+- **Vegetation**: *Not Started* 
 - **Safe Zones**: *Not Started*  
 - **POIs**: *Not Started*  
 - **Finer Detail Edits/Additions**: *Not Started*  
