@@ -49,7 +49,7 @@ ensure lcpp_apoc_map
 ```
 
 ### 4. Install Infection Zones Resource
-Download and install the **infection zones** resource from [here](#) (Insert link to the resource). Follow the installation instructions provided with the resource.
+Download and install the **infection zones** resource from [here](https://github.com/nzkfc/lcpp_apoc_infection_zones) (Insert link to the resource). Follow the installation instructions provided with the resource.
 
 ### 5. Start Your Server
 Start your FiveM server and ensure everything is running correctly.
