@@ -28,6 +28,7 @@ A series of custom YMAPs for the Liberty City Preservation Project mod (For Five
 ### **Bohan** TBC
 ### **Alderney** TBC
 
+---
 ## Installation Guide
 
 Follow these steps to install and configure the **LCPP Apocalypse Map** on your FiveM server.
