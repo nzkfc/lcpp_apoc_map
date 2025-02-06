@@ -48,7 +48,7 @@ Add the following line to your `server.cfg` file to ensure the map is loaded:
 ensure lcpp_apoc_map
 ```
 
-### 4. Install Infection Zones Resource
+### 4. Install Infection Zones Resource (Optional - Highly recommended to stop players walking across bridge collisions etc)
 Download and install the **infection zones** resource from [here](https://github.com/nzkfc/lcpp_apoc_infection_zones). Follow the installation instructions provided with the resource.
 
 ### 5. Start Your Server
