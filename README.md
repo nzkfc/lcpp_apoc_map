@@ -11,6 +11,7 @@ A series of custom YMAPs for the Liberty City Preservation Project mod (For Five
 ![image](https://github.com/user-attachments/assets/69a34bd8-8d2e-48d3-8588-50f3f47901dd)
 ![image](https://github.com/user-attachments/assets/a93eeabf-d499-4215-919e-a40c30f80304)
 ![image](https://github.com/user-attachments/assets/ef709bea-56d7-4b14-9bc0-d381a931fe77)
+![ymap_legend](https://github.com/user-attachments/assets/7fbf2b31-32a9-4286-b62a-6e8c763b08f2)
 
 ---
 ## Map Progression:
