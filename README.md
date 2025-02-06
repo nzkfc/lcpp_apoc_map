@@ -12,12 +12,7 @@ A series of custom YMAPs for the Liberty City Preservation Project mod (For Five
 ![image](https://github.com/user-attachments/assets/a93eeabf-d499-4215-919e-a40c30f80304)
 ![image](https://github.com/user-attachments/assets/ef709bea-56d7-4b14-9bc0-d381a931fe77)
 
-
-**Release ETA:**  
-Vehicles/Vegetation will be the first release for Algonquin. Temporary files to block off the bridges will also be included, allowing servers to get up and running. Each area will be released one by one for vehicles/vegetation as updates, giving server owners additional land to expand into while keeping content fresh.
-
 ---
-
 ## Map Progression:
 
 ### **Algonquin**
@@ -28,30 +23,36 @@ Vehicles/Vegetation will be the first release for Algonquin. Temporary files to 
 - **POIs**: *In Progress* 10%
 - **Finer Detail Edits/Additions**: *Not Started*  
 
-### **Broker**
-- **Vehicles:** *Not Started* 
-- **Vegetation**: *Not Started* 
-- **Safe Zones**: *Not Started*  
-- **POIs**: *Not Started*  
-- **Finer Detail Edits/Additions**: *Not Started*  
+### **Broker** TBC
+### **Dukes** TBC
+### **Bohan** TBC
+### **Alderney** TBC
 
-### **Dukes**
-- **Vehicles:** *Not Started* 
-- **Vegetation**: *Not Started* 
-- **Safe Zones**: *Not Started*  
-- **POIs**: *Not Started*  
-- **Finer Detail Edits/Additions**: *Not Started*  
+## Installation Guide
 
-### **Bohan**
-- **Vehicles:** *Not Started* 
-- **Vegetation**: *Not Started* 
-- **Safe Zones**: *Not Started*  
-- **POIs**: *Not Started*  
-- **Finer Detail Edits/Additions**: *Not Started*  
+Follow these steps to install and configure the **LCPP Apocalypse Map** on your FiveM server.
 
-### **Alderney**
-- **Vehicles:** *Not Started* 
-- **Vegetation**: *Not Started* 
-- **Safe Zones**: *Not Started*  
-- **POIs**: *Not Started*  
-- **Finer Detail Edits/Additions**: *Not Started*  
+### 1. Move the `lcpp_apoc_map`
+Move the `lcpp_apoc_map` folder into the `resources` directory of your FiveM server.
+
+### 2. Replace Liberty City Map Files
+Copy and paste the `libertycity` map folder over your existing LCPP `libertycity` map directory. When prompted to replace files, click **Yes**.
+
+> **Note:** Backup files of the original map and collision files are provided.
+
+### 3. Modify `server.cfg`
+Add the following line to your `server.cfg` file to ensure the map is loaded:
+
+```cfg
+ensure lcpp_apoc_map
+```
+
+### 4. Install Infection Zones Resource
+Download and install the **infection zones** resource from [here](#) (Insert link to the resource). Follow the installation instructions provided with the resource.
+
+### 5. Start Your Server
+Start your FiveM server and ensure everything is running correctly.
+
+---
+### Support & Issues
+If you encounter any issues, feel free to open an issue in this repository.
