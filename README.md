@@ -56,8 +56,14 @@ Start your FiveM server and ensure everything is running correctly.
 
 ---
 
-## License  
-This project/script is licensed under the **GNU General Public License v3.0** (GPL-3.0).
-
 ### Support & Issues
 If you encounter any issues, feel free to open an issue in this repository.
+
+This script is licensed under the **GNU General Public License v3.0** (GPL-3.0).
+
+## License & Attribution
+- **License:** [GNU GPL v3](LICENSE)
+- **Author:** nzkfc(https://github.com/nzkfc)
+- **Attribution Requirement:** Any use, modification, or distribution must provide credit as stated in the license.
+
+For more details, check the full [GPL v3 license](https://www.gnu.org/licenses/gpl-3.0.html).
