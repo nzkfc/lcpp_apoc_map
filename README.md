@@ -54,7 +54,7 @@ Download and install the **infection zones** resource from [here](https://github
 ### 5. Start Your Server
 Start your FiveM server and ensure everything is running correctly.
 
-### Support & Issues
+## Support & Issues
 If you encounter any issues, feel free to open an issue in this repository.
 
 This script is licensed under the **GNU General Public License v3.0** (GPL-3.0).
