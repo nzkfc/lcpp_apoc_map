@@ -1,6 +1,7 @@
 # lcpp_apoc_map (WIP!)
 A series of custom YMAPs for the Liberty City Preservation Project mod (For FiveM version).
-![image](https://github.com/user-attachments/assets/6af813a2-9ba7-424a-a59e-ec5290e46597)
+![image](https://github.com/user-attachments/assets/72fa64d5-7f1f-4327-9a99-43d61d67ca89)
+
 
 ## WIP Features
 - **Optimized and Custom YMAPs**: Built strategically; wrecked vehicles, overgrown vegetation, unique POI scenes, and safe zones are all separated so you can decide what to use.
